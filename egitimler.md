@@ -1,11 +1,28 @@
-| # | Eğitimin Adı | Türü | Konusu | Konumu | Vize | Tarihler | Gün | Ücret | Son Başvuru | URL |
-|---|---|---|---|---|---|---|---|---|---|---|
-| $\colorbox[HTML]{C8E6C9}{\text{1}}$ | $\colorbox[HTML]{C8E6C9}{\text{Heapcon 2026}}$ | $\colorbox[HTML]{C8E6C9}{\text{Konferans}}$ | $\colorbox[HTML]{C8E6C9}{\text{Software Architecture, AI, yazılım mühendisliği}}$ | $\colorbox[HTML]{C8E6C9}{\text{Belgrad, Sırbistan (Madlenianum)}}$ | $\colorbox[HTML]{C8E6C9}{\text{Vizesiz}}$ | $\colorbox[HTML]{C8E6C9}{\text{5–6 Kas 2026}}$ | $\colorbox[HTML]{C8E6C9}{\text{2}}$ | $\colorbox[HTML]{C8E6C9}{\text{€320 (yüz yüze)}}$ | $\colorbox[HTML]{C8E6C9}{\text{3 Kas 2026 (veya tükenene kadar)}}$ | 🟢 [link](https://heapcon.io/2026/tickets) |
-| 2 | React Basics (GFU, S2985) | Eğitim | React | Köln, Almanya (GFU eğitim merkezi) | **Vize gerekli** (Schengen) | 7–8 Ara 2026 | 2 | €1.440 + KDV | Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal) | [link](https://www.gfu.net/s2985) |
-| 3 | Microservices Architecture Basics (GFU, S2970) | Eğitim | Software Architecture, mikroservis, event-driven iletişim, Event Sourcing/CQRS | Köln, Almanya (GFU eğitim merkezi) | **Vize gerekli** (Schengen) | 7–9 Ara 2026 | 3 | €2.030 + KDV | Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal) | [link](https://www.gfu.net/s2970) |
-| 4 | Spring Framework with Spring Boot (GFU, S2984) | Eğitim | Java, Spring, Spring Boot | Köln, Almanya (GFU eğitim merkezi) | **Vize gerekli** (Schengen) | 7–11 Ara 2026 | 5 | €2.600 + KDV | Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal) | [link](https://www.gfu.net/seminare-schulungen-kurse/java_sk5/spring_framework_with_spring_boot_s2984.html) |
-| 5 | Domain-Driven Design (DDD) and Clean Architecture (GFU, S2987) | Eğitim | DDD, Clean Architecture (örnekler C# ile) | Köln, Almanya (GFU eğitim merkezi) | **Vize gerekli** (Schengen) | 7–11 Ara 2026 | 5 | €3.250 + KDV | Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal) | [link](https://www.gfu.net/s2987) |
-| $\colorbox[HTML]{C8E6C9}{\text{6}}$ | $\colorbox[HTML]{C8E6C9}{\text{Spring Boot Complete (GFU, S3250)}}$ | $\colorbox[HTML]{C8E6C9}{\text{Eğitim}}$ | $\colorbox[HTML]{C8E6C9}{\text{Java, Spring Boot, REST, JPA, mikroservis, Spring Cloud}}$ | $\colorbox[HTML]{C8E6C9}{\text{Köln, Almanya (GFU eğitim merkezi)}}$ | $\colorbox[HTML]{C8E6C9}{\text{Vize gerekli (Schengen)}}$ | $\colorbox[HTML]{C8E6C9}{\text{14–18 Ara 2026}}$ | $\colorbox[HTML]{C8E6C9}{\text{5}}$ | $\colorbox[HTML]{C8E6C9}{\text{€3.250 + KDV}}$ | $\colorbox[HTML]{C8E6C9}{\text{Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal)}}$ | 🟢 [link](https://www.gfu.net/s3250) |
+<table>
+<thead>
+<tr><th>#</th><th>Eğitimin Adı</th><th>Türü</th><th>Konusu</th><th>Konumu</th><th>Vize</th><th>Tarihler</th><th>Gün</th><th>Ücret</th><th>Son Başvuru</th><th>URL</th></tr>
+</thead>
+<tbody>
+<tr style="background-color:#c8e6c9;color:#000;">
+<td>🟢 1</td><td>Heapcon 2026</td><td>Konferans</td><td>Software Architecture, AI, yazılım mühendisliği</td><td>Belgrad, Sırbistan (Madlenianum)</td><td>Vizesiz</td><td>5–6 Kas 2026</td><td>2</td><td>€320 (yüz yüze)</td><td>3 Kas 2026 (veya tükenene kadar)</td><td><a href="https://heapcon.io/2026/tickets">link</a></td>
+</tr>
+<tr>
+<td>2</td><td>React Basics (GFU, S2985)</td><td>Eğitim</td><td>React</td><td>Köln, Almanya (GFU eğitim merkezi)</td><td><b>Vize gerekli</b> (Schengen)</td><td>7–8 Ara 2026</td><td>2</td><td>€1.440 + KDV</td><td>Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal)</td><td><a href="https://www.gfu.net/s2985">link</a></td>
+</tr>
+<tr>
+<td>3</td><td>Microservices Architecture Basics (GFU, S2970)</td><td>Eğitim</td><td>Software Architecture, mikroservis, event-driven iletişim, Event Sourcing/CQRS</td><td>Köln, Almanya (GFU eğitim merkezi)</td><td><b>Vize gerekli</b> (Schengen)</td><td>7–9 Ara 2026</td><td>3</td><td>€2.030 + KDV</td><td>Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal)</td><td><a href="https://www.gfu.net/s2970">link</a></td>
+</tr>
+<tr>
+<td>4</td><td>Spring Framework with Spring Boot (GFU, S2984)</td><td>Eğitim</td><td>Java, Spring, Spring Boot</td><td>Köln, Almanya (GFU eğitim merkezi)</td><td><b>Vize gerekli</b> (Schengen)</td><td>7–11 Ara 2026</td><td>5</td><td>€2.600 + KDV</td><td>Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal)</td><td><a href="https://www.gfu.net/seminare-schulungen-kurse/java_sk5/spring_framework_with_spring_boot_s2984.html">link</a></td>
+</tr>
+<tr>
+<td>5</td><td>Domain-Driven Design (DDD) and Clean Architecture (GFU, S2987)</td><td>Eğitim</td><td>DDD, Clean Architecture (örnekler C# ile)</td><td>Köln, Almanya (GFU eğitim merkezi)</td><td><b>Vize gerekli</b> (Schengen)</td><td>7–11 Ara 2026</td><td>5</td><td>€3.250 + KDV</td><td>Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal)</td><td><a href="https://www.gfu.net/s2987">link</a></td>
+</tr>
+<tr style="background-color:#c8e6c9;color:#000;">
+<td>🟢 6</td><td>Spring Boot Complete (GFU, S3250)</td><td>Eğitim</td><td>Java, Spring Boot, REST, JPA, mikroservis, Spring Cloud</td><td>Köln, Almanya (GFU eğitim merkezi)</td><td><b>Vize gerekli</b> (Schengen)</td><td>14–18 Ara 2026</td><td>5</td><td>€3.250 + KDV</td><td>Belirtilmemiş (kurstan 1 gün öncesine kadar ücretsiz iptal)</td><td><a href="https://www.gfu.net/s3250">link</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Kaynaklar
 
